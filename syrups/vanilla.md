@@ -1,6 +1,6 @@
 # Simple Syrup
 
-## Description: Craft a cup full of vanilla flavor anytime with this delicious, café-inspired syrup recipe
+## Description: Craft a cup full of vanilla flavor anytime with this delicious, café-inspired syrup provo
 
 ## Ingredients
 
